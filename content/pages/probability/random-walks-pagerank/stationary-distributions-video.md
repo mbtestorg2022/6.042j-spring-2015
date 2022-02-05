@@ -6,7 +6,7 @@ title: 4.8 Random Walks & Pagerank
 uid: 543c714f-d515-8fb8-6cde-0a76b4d8446c
 ---
 
-*   [<Random Walks & Pagerank]({{< baseurl >}}/pages/probability/random-walks-pagerank)
+*   [\<Random Walks & Pagerank]({{< baseurl >}}/pages/probability/random-walks-pagerank)
 *   [4.8.1Random Walks: Video]({{< baseurl >}}/pages/probability/random-walks-pagerank)
 *   [4.8.2Stationary Distributions: Video]({{< baseurl >}}/pages/probability/random-walks-pagerank/stationary-distributions-video)
 *   [4.8.3Page Rank: Video]({{< baseurl >}}/pages/probability/random-walks-pagerank/page-rank-video)

@@ -6,7 +6,7 @@ title: 3.1 Sums & Products
 uid: b8845593-8952-339a-92de-012310e338f1
 ---
 
-*   [<Perturbation by Young Gauss]({{< baseurl >}}/pages/counting/tp8-2/vertical-56598c481e1a)
+*   [\<Perturbation by Young Gauss]({{< baseurl >}}/pages/counting/tp8-2/vertical-56598c481e1a)
 *   [3.1.1Arithmetic Sums: Video]({{< baseurl >}}/pages/counting/tp8-2)
 *   [3.1.2Perturbation by Young Gauss]({{< baseurl >}}/pages/counting/tp8-2/vertical-56598c481e1a)
 *   [3.1.3Geometric Sums: Video]({{< baseurl >}}/pages/counting/tp8-2/vertical-46a80f3884d6)

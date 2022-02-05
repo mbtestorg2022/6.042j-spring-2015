@@ -6,7 +6,7 @@ title: 2.10 Trees
 uid: cff972ff-cc8a-d21c-f422-d92a0e5a67fd
 ---
 
-*   [<Trees]({{< baseurl >}}/pages/structures/tp8-1)
+*   [\<Trees]({{< baseurl >}}/pages/structures/tp8-1)
 *   [2.10.1Trees: Video]({{< baseurl >}}/pages/structures/tp8-1)
 *   [2.10.2Trees: Many Definitions]({{< baseurl >}}/pages/structures/tp8-1/vertical-91c45efd7596)
 *   [2.10.3Tree Coloring: Video]({{< baseurl >}}/pages/structures/tp8-1/vertical-04923c3ed451)

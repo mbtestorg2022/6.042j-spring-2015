@@ -6,7 +6,7 @@ title: 1.2 Proof Methods
 uid: 93b788b4-e73b-5932-f1e8-4ff4cd792ad8
 ---
 
-*   [<A Bogus Proof by Cases]({{< baseurl >}}/pages/proofs/tp1-2/vertical-70c0b579a359)
+*   [\<A Bogus Proof by Cases]({{< baseurl >}}/pages/proofs/tp1-2/vertical-70c0b579a359)
 *   [1.2.1Proof By Contradiction: Video]({{< baseurl >}}/pages/proofs/tp1-2)
 *   [1.2.2Proof By Contradiction]({{< baseurl >}}/pages/proofs/tp1-2/vertical-2835de2f30b6)
 *   [1.2.3Proof By Cases: Video]({{< baseurl >}}/pages/proofs/tp1-2/vertical-f502ca28cf17)

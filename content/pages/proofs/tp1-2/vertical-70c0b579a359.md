@@ -6,7 +6,7 @@ title: 1.2 Proof Methods
 uid: 62bbb99c-a9ee-dcc2-6f2b-179d17f08907
 ---
 
-*   [<Friends and Strangers]({{< baseurl >}}/pages/proofs/tp1-2/vertical-9380624edebc)
+*   [\<Friends and Strangers]({{< baseurl >}}/pages/proofs/tp1-2/vertical-9380624edebc)
 *   [1.2.1Proof By Contradiction: Video]({{< baseurl >}}/pages/proofs/tp1-2)
 *   [1.2.2Proof By Contradiction]({{< baseurl >}}/pages/proofs/tp1-2/vertical-2835de2f30b6)
 *   [1.2.3Proof By Cases: Video]({{< baseurl >}}/pages/proofs/tp1-2/vertical-f502ca28cf17)

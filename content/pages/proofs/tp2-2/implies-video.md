@@ -6,7 +6,7 @@ title: 1.4 Logic & Propositions
 uid: 654a2726-f755-3e86-7425-94b694d56a3c
 ---
 
-*   [<Equivalence and Truth Table]({{< baseurl >}}/pages/proofs/tp2-2/vertical-b8b2711c0ce8)
+*   [\<Equivalence and Truth Table]({{< baseurl >}}/pages/proofs/tp2-2/vertical-b8b2711c0ce8)
 *   [1.4.1Propositional Operators: Video]({{< baseurl >}}/pages/proofs/tp2-2)
 *   [1.4.2Propositional Operators]({{< baseurl >}}/pages/proofs/tp2-2/vertical-e6ef70d76365)
 *   [1.4.3Digital Logic: Video]({{< baseurl >}}/pages/proofs/tp2-2/digital-logic-video)

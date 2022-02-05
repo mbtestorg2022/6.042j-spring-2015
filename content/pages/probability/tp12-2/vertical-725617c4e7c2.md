@@ -6,7 +6,7 @@ title: 4.3 Independence & Causality
 uid: 88c2ead8-56df-d490-9166-d60a3f11e545
 ---
 
-*   [<Mutual Independence: Video]({{< baseurl >}}/pages/probability/tp12-2/vertical-9c80216b7495)
+*   [\<Mutual Independence: Video]({{< baseurl >}}/pages/probability/tp12-2/vertical-9c80216b7495)
 *   [4.3.1Independence: Video]({{< baseurl >}}/pages/probability/tp12-2)
 *   [4.3.2Independent Dice Rolls]({{< baseurl >}}/pages/probability/tp12-2/vertical-8ff8e74ce854)
 *   [4.3.3Mutual Independence: Video]({{< baseurl >}}/pages/probability/tp12-2/vertical-9c80216b7495)

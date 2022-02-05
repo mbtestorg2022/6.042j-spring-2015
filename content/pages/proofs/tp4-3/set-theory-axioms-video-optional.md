@@ -6,7 +6,7 @@ title: 1.11  Infinite Sets
 uid: 7fd2a226-81a4-a25f-3552-9450789f87f4
 ---
 
-*   [<Russell's Paradox \[and ZFC optional\]]({{< baseurl >}}/pages/proofs/tp4-3/vertical-ac3ff158ffcb)
+*   [\<Russell's Paradox \[and ZFC optional\]]({{< baseurl >}}/pages/proofs/tp4-3/vertical-ac3ff158ffcb)
 *   [1.11.1Cardinality: Video]({{< baseurl >}}/pages/proofs/tp4-3)
 *   [1.11.2Cantor, Schroeder-Bernstein]({{< baseurl >}}/pages/proofs/tp4-3/vertical-e7c2a3883170)
 *   [1.11.3Countable Sets: Video]({{< baseurl >}}/pages/proofs/tp4-3/countable-sets-video)

@@ -6,7 +6,7 @@ title: 1.5 Quantifiers & Predicate Logic
 uid: 732f4df8-011e-8b8d-4780-2b72ec9c5762
 ---
 
-*   [<Quantifiers & Predicate Logic]({{< baseurl >}}/pages/proofs/tp3-1)
+*   [\<Quantifiers & Predicate Logic]({{< baseurl >}}/pages/proofs/tp3-1)
 *   [1.5.1Predicate Logic 1: Video]({{< baseurl >}}/pages/proofs/tp3-1)
 *   [1.5.2Predicate Logic 2: Video]({{< baseurl >}}/pages/proofs/tp3-1/vertical-7b4a11771cb1)
 *   [1.5.3Satisfiability]({{< baseurl >}}/pages/proofs/tp3-1/vertical-071a48267f00)

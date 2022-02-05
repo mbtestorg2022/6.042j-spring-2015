@@ -6,7 +6,7 @@ title: 1.4 Logic & Propositions
 uid: 8de160a9-e729-9f7f-ec8a-58aef5106eef
 ---
 
-*   [<A Bogus Well Ordering Principle Proof]({{< baseurl >}}/pages/proofs/tp2-1/vertical-0d330bfe723d)
+*   [\<A Bogus Well Ordering Principle Proof]({{< baseurl >}}/pages/proofs/tp2-1/vertical-0d330bfe723d)
 *   [1.4.1Propositional Operators: Video]({{< baseurl >}}/pages/proofs/tp2-2)
 *   [1.4.2Propositional Operators]({{< baseurl >}}/pages/proofs/tp2-2/vertical-e6ef70d76365)
 *   [1.4.3Digital Logic: Video]({{< baseurl >}}/pages/proofs/tp2-2/digital-logic-video)

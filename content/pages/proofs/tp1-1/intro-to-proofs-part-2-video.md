@@ -6,7 +6,7 @@ title: 1.1 Intro to Proofs
 uid: 6a9af786-0097-1529-36cf-c7d478c637db
 ---
 
-*   [<Intro To Proofs: Part 1: Video]({{< baseurl >}}/pages/proofs/tp1-1/intro-to-proofs-part-1-video)
+*   [\<Intro To Proofs: Part 1: Video]({{< baseurl >}}/pages/proofs/tp1-1/intro-to-proofs-part-1-video)
 *   [1.1.1Welcome to 6.042: Video]({{< baseurl >}}/pages/proofs/tp1-1)
 *   [1.1.2Intro To Proofs: Part 1: Video]({{< baseurl >}}/pages/proofs/tp1-1/intro-to-proofs-part-1-video)
 *   [1.1.3Intro to Proofs: Part 2: Video]({{< baseurl >}}/pages/proofs/tp1-1/intro-to-proofs-part-2-video)

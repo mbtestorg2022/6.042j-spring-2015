@@ -6,7 +6,7 @@ title: 1.11  Infinite Sets
 uid: 7b14af4d-9845-97ad-4109-98ecc9fb9f71
 ---
 
-*   [<Recursive Functions: Video]({{< baseurl >}}/pages/proofs/recursive-definition/recursive-functions-video)
+*   [\<Recursive Functions: Video]({{< baseurl >}}/pages/proofs/recursive-definition/recursive-functions-video)
 *   [1.11.1Cardinality: Video]({{< baseurl >}}/pages/proofs/tp4-3)
 *   [1.11.2Cantor, Schroeder-Bernstein]({{< baseurl >}}/pages/proofs/tp4-3/vertical-e7c2a3883170)
 *   [1.11.3Countable Sets: Video]({{< baseurl >}}/pages/proofs/tp4-3/countable-sets-video)

@@ -6,7 +6,7 @@ title: 2.11 Stable Matching
 uid: d3855955-a736-4b6b-effb-27d6d59b1b8f
 ---
 
-*   [<Stable Matching]({{< baseurl >}}/pages/structures/stable-matching)
+*   [\<Stable Matching]({{< baseurl >}}/pages/structures/stable-matching)
 *   [2.11.1Stable Matching: Video]({{< baseurl >}}/pages/structures/stable-matching)
 *   [2.11.2Matching Ritual: Video]({{< baseurl >}}/pages/structures/stable-matching/matching-ritual-video)
 *   [2.11.3Derived Variables]({{< baseurl >}}/pages/structures/stable-matching/derived-variables-0)

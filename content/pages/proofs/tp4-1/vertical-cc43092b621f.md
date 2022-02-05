@@ -6,7 +6,7 @@ title: 1.8  Induction
 uid: 4321e156-8199-9df6-f538-8c7a19aa954a
 ---
 
-*   [<Strong Induction: Video]({{< baseurl >}}/pages/proofs/tp4-1/vertical-828ce2b900d3)
+*   [\<Strong Induction: Video]({{< baseurl >}}/pages/proofs/tp4-1/vertical-828ce2b900d3)
 *   [1.8.1Induction: Video]({{< baseurl >}}/pages/proofs/tp4-1)
 *   [1.8.2Bogus Induction: Video]({{< baseurl >}}/pages/proofs/tp4-1/vertical-9984d57d43e5)
 *   [1.8.3Same Colored Horses]({{< baseurl >}}/pages/proofs/tp4-1/vertical-e9a3ad8170fd)

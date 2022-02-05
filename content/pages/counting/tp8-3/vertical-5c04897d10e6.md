@@ -6,7 +6,7 @@ title: 3.2 Asymptotics
 uid: 1f7846ca-c133-388f-d786-cae947c99035
 ---
 
-*   [<Asymptotic Properties: Video]({{< baseurl >}}/pages/counting/tp8-3/vertical-e35ce9684389)
+*   [\<Asymptotic Properties: Video]({{< baseurl >}}/pages/counting/tp8-3/vertical-e35ce9684389)
 *   [3.2.1Asymptotic Notation: Video]({{< baseurl >}}/pages/counting/tp8-3)
 *   [3.2.2Asymptotics as Relations]({{< baseurl >}}/pages/counting/tp8-3/vertical-3800c4b1c397)
 *   [3.2.3Asymptotic Properties: Video]({{< baseurl >}}/pages/counting/tp8-3/vertical-e35ce9684389)

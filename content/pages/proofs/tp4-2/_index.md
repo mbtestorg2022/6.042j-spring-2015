@@ -6,7 +6,7 @@ title: 1.9  State Machines - Invariants
 uid: 470546ac-8124-6c93-8505-a0f7571765aa
 ---
 
-*   [<A Bogus Induction]({{< baseurl >}}/pages/proofs/tp4-1/vertical-87911985518e)
+*   [\<A Bogus Induction]({{< baseurl >}}/pages/proofs/tp4-1/vertical-87911985518e)
 *   [1.9.1State Machines Invariants: Video]({{< baseurl >}}/pages/proofs/tp4-2)
 *   [1.9.2State Machine Invariants]({{< baseurl >}}/pages/proofs/tp4-2/vertical-ee3144f200f1)
 *   [1.9.3Derived Variables: Video]({{< baseurl >}}/pages/proofs/tp4-2/vertical-ef00ae29a8ca)

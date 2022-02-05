@@ -6,7 +6,7 @@ title: 3.2 Asymptotics
 uid: 6874492c-9816-6ab0-1d32-ee77315bd540
 ---
 
-*   [<Theta]({{< baseurl >}}/pages/counting/tp8-3/theta)
+*   [\<Theta]({{< baseurl >}}/pages/counting/tp8-3/theta)
 *   [3.2.1Asymptotic Notation: Video]({{< baseurl >}}/pages/counting/tp8-3)
 *   [3.2.2Asymptotics as Relations]({{< baseurl >}}/pages/counting/tp8-3/vertical-3800c4b1c397)
 *   [3.2.3Asymptotic Properties: Video]({{< baseurl >}}/pages/counting/tp8-3/vertical-e35ce9684389)

@@ -6,7 +6,7 @@ title: 4.5 Expectation
 uid: 025c498f-3f5e-1c53-924f-7e40eb06a220
 ---
 
-*   [<Dice And Coin Game]({{< baseurl >}}/pages/probability/tp12-3/vertical-f27f5990f502)
+*   [\<Dice And Coin Game]({{< baseurl >}}/pages/probability/tp12-3/vertical-f27f5990f502)
 *   [4.5.1Expectation: Video]({{< baseurl >}}/pages/probability/tp13-1)
 *   [4.5.2Uneven Dice]({{< baseurl >}}/pages/probability/tp13-1/vertical-d324b518e79a)
 *   [4.5.3Expected Number Of Heads: Video]({{< baseurl >}}/pages/probability/tp13-1/vertical-07d1783f0da3)

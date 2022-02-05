@@ -6,7 +6,7 @@ title: 1.8  Induction
 uid: 5f6a10de-78bd-30e3-1029-095bd5d73d7b
 ---
 
-*   [<Unstacking Game Score]({{< baseurl >}}/pages/proofs/tp4-1/vertical-cc43092b621f)
+*   [\<Unstacking Game Score]({{< baseurl >}}/pages/proofs/tp4-1/vertical-cc43092b621f)
 *   [1.8.1Induction: Video]({{< baseurl >}}/pages/proofs/tp4-1)
 *   [1.8.2Bogus Induction: Video]({{< baseurl >}}/pages/proofs/tp4-1/vertical-9984d57d43e5)
 *   [1.8.3Same Colored Horses]({{< baseurl >}}/pages/proofs/tp4-1/vertical-e9a3ad8170fd)

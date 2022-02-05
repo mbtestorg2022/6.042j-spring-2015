@@ -6,7 +6,7 @@ title: 2.11 Stable Matching
 uid: f8d9d92e-c10a-0641-bd7b-591f5cb8b3b0
 ---
 
-*   [<Bipartite Equivalence Relation]({{< baseurl >}}/pages/structures/stable-matching/bipartite-equivalence-relation)
+*   [\<Bipartite Equivalence Relation]({{< baseurl >}}/pages/structures/stable-matching/bipartite-equivalence-relation)
 *   [2.11.1Stable Matching: Video]({{< baseurl >}}/pages/structures/stable-matching)
 *   [2.11.2Matching Ritual: Video]({{< baseurl >}}/pages/structures/stable-matching/matching-ritual-video)
 *   [2.11.3Derived Variables]({{< baseurl >}}/pages/structures/stable-matching/derived-variables-0)

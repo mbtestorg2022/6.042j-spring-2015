@@ -6,7 +6,7 @@ title: 2.2  Congruences
 uid: 30a0182e-39fc-2a66-241e-fb67db839b1d
 ---
 
-*   [<GCDs II]({{< baseurl >}}/pages/structures/tp5-1/vertical-912ad2b397a4)
+*   [\<GCDs II]({{< baseurl >}}/pages/structures/tp5-1/vertical-912ad2b397a4)
 *   [2.2.1Congruence mod n: Video]({{< baseurl >}}/pages/structures/tp5-2)
 *   [2.2.2Divisibility and Congruence]({{< baseurl >}}/pages/structures/tp5-2/vertical-d0520d30ae3f)
 *   [2.2.3Inverses mod n: Video]({{< baseurl >}}/pages/structures/tp5-2/vertical-5a82e8c3077d)

@@ -6,7 +6,7 @@ title: 3.1 Sums & Products
 uid: 5ad4adab-cbfd-9651-9c29-e15788beb6c4
 ---
 
-*   [<Harmonic Numbers]({{< baseurl >}}/pages/counting/tp8-2/vertical-c496866a2419)
+*   [\<Harmonic Numbers]({{< baseurl >}}/pages/counting/tp8-2/vertical-c496866a2419)
 *   [3.1.1Arithmetic Sums: Video]({{< baseurl >}}/pages/counting/tp8-2)
 *   [3.1.2Perturbation by Young Gauss]({{< baseurl >}}/pages/counting/tp8-2/vertical-56598c481e1a)
 *   [3.1.3Geometric Sums: Video]({{< baseurl >}}/pages/counting/tp8-2/vertical-46a80f3884d6)

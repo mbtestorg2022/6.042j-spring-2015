@@ -6,7 +6,7 @@ title: 1.10 Recursive Definition
 uid: 1674b24a-caef-1bd9-9db9-d98134454ea8
 ---
 
-*   [<Structural Induction: Definition]({{< baseurl >}}/pages/proofs/recursive-definition/structural-induction-definition)
+*   [\<Structural Induction: Definition]({{< baseurl >}}/pages/proofs/recursive-definition/structural-induction-definition)
 *   [1.10.1Recursive Data: Video]({{< baseurl >}}/pages/proofs/recursive-definition)
 *   [1.10.2Matching Parentheses]({{< baseurl >}}/pages/proofs/recursive-definition/matching-parentheses)
 *   [1.10.3Functions of F18]({{< baseurl >}}/pages/proofs/recursive-definition/functions-of-f18)

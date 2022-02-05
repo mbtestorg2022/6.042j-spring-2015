@@ -6,7 +6,7 @@ title: 1.3 Well Ordering Principle
 uid: 376535e1-bbaf-1919-fdc3-bdd7b7043dea
 ---
 
-*   [<A Bogus Proof by Contradiction]({{< baseurl >}}/pages/proofs/tp1-2/vertical-cdf72f5374ab)
+*   [\<A Bogus Proof by Contradiction]({{< baseurl >}}/pages/proofs/tp1-2/vertical-cdf72f5374ab)
 *   [1.3.1Well Ordering Principle 1: Video]({{< baseurl >}}/pages/proofs/tp2-1)
 *   [1.3.2Domain for Well Ordering Principle]({{< baseurl >}}/pages/proofs/tp2-1/vertical-1d9c2a0e507a)
 *   [1.3.3Well Ordering Principle 2: Video]({{< baseurl >}}/pages/proofs/tp2-1/vertical-735460178366)

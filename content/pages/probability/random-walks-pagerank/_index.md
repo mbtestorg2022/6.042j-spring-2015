@@ -6,7 +6,7 @@ title: 4.8 Random Walks & Pagerank
 uid: ec31be5e-21ec-45ab-3eab-7ab45d2e85b7
 ---
 
-*   [<Above Average Number of Fingers]({{< baseurl >}}/pages/probability/tp14-1/vertical-2f9ccec3fdf7)
+*   [\<Above Average Number of Fingers]({{< baseurl >}}/pages/probability/tp14-1/vertical-2f9ccec3fdf7)
 *   [4.8.1Random Walks: Video]({{< baseurl >}}/pages/probability/random-walks-pagerank)
 *   [4.8.2Stationary Distributions: Video]({{< baseurl >}}/pages/probability/random-walks-pagerank/stationary-distributions-video)
 *   [4.8.3Page Rank: Video]({{< baseurl >}}/pages/probability/random-walks-pagerank/page-rank-video)

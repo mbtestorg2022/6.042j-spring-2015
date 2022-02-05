@@ -6,7 +6,7 @@ title: 4.2 Conditional Probability
 uid: 719a707a-e7a4-1f34-c688-5d5a02df431c
 ---
 
-*   [<Cavities and Candy]({{< baseurl >}}/pages/probability/tp12-1/vertical-ca9fdfa21bb0)
+*   [\<Cavities and Candy]({{< baseurl >}}/pages/probability/tp12-1/vertical-ca9fdfa21bb0)
 *   [4.2.1Conditional Probability Definitions: Video]({{< baseurl >}}/pages/probability/tp12-1)
 *   [4.2.2Dicey Sum]({{< baseurl >}}/pages/probability/tp12-1/vertical-c84a5906e76d)
 *   [4.2.3Law of Total Probability: Video]({{< baseurl >}}/pages/probability/tp12-1/vertical-4689ff047559)

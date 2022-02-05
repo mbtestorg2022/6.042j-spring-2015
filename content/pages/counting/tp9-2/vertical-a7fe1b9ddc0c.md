@@ -6,7 +6,7 @@ title: 3.4 Repetitions & Binomial Theorem
 uid: e6c64653-596b-af6a-f0c2-03a1421a1e7a
 ---
 
-*   [<Two Pair Poker Hands: Video]({{< baseurl >}}/pages/counting/tp9-2/vertical-cb7317c8f4ec)
+*   [\<Two Pair Poker Hands: Video]({{< baseurl >}}/pages/counting/tp9-2/vertical-cb7317c8f4ec)
 *   [3.4.1Generalized Counting Rules: Video]({{< baseurl >}}/pages/counting/tp9-2)
 *   [3.4.2Choosing Integers]({{< baseurl >}}/pages/counting/tp9-2/vertical-c197c8335ccf)
 *   [3.4.3Two Pair Poker Hands: Video]({{< baseurl >}}/pages/counting/tp9-2/vertical-cb7317c8f4ec)

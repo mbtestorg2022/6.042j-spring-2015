@@ -6,7 +6,7 @@ title: 4.4 Random Variables, Density Functions
 uid: bfa89111-7165-b287-cc94-bdc357dcb0d4
 ---
 
-*   [<Random Variables, Density Functions]({{< baseurl >}}/pages/probability/tp12-3)
+*   [\<Random Variables, Density Functions]({{< baseurl >}}/pages/probability/tp12-3)
 *   [4.4.1Bigger Number Game: Video]({{< baseurl >}}/pages/probability/tp12-3)
 *   [4.4.2Random Variables: Independence: Video]({{< baseurl >}}/pages/probability/tp12-3/vertical-af2ad400f984)
 *   [4.4.3Odd Heads and Matches]({{< baseurl >}}/pages/probability/tp12-3/vertical-12926a05d1ba)

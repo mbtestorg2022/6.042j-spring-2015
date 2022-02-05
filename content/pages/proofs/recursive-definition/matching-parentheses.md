@@ -6,7 +6,7 @@ title: 1.10 Recursive Definition
 uid: 07b69d15-ceb4-77f3-20ed-fe861b5c21fc
 ---
 
-*   [<Recursive Definition]({{< baseurl >}}/pages/proofs/recursive-definition)
+*   [\<Recursive Definition]({{< baseurl >}}/pages/proofs/recursive-definition)
 *   [1.10.1Recursive Data: Video]({{< baseurl >}}/pages/proofs/recursive-definition)
 *   [1.10.2Matching Parentheses]({{< baseurl >}}/pages/proofs/recursive-definition/matching-parentheses)
 *   [1.10.3Functions of F18]({{< baseurl >}}/pages/proofs/recursive-definition/functions-of-f18)

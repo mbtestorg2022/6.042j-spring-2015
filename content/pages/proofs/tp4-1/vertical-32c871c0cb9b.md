@@ -6,7 +6,7 @@ title: 1.8  Induction
 uid: 253ab197-eaf3-519a-13ef-cb16953f03b0
 ---
 
-*   [<Strong vs Ordinary Induction vs WOP \[optional\]]({{< baseurl >}}/pages/proofs/tp4-1/vertical-b16ab258826d)
+*   [\<Strong vs Ordinary Induction vs WOP \[optional\]]({{< baseurl >}}/pages/proofs/tp4-1/vertical-b16ab258826d)
 *   [1.8.1Induction: Video]({{< baseurl >}}/pages/proofs/tp4-1)
 *   [1.8.2Bogus Induction: Video]({{< baseurl >}}/pages/proofs/tp4-1/vertical-9984d57d43e5)
 *   [1.8.3Same Colored Horses]({{< baseurl >}}/pages/proofs/tp4-1/vertical-e9a3ad8170fd)

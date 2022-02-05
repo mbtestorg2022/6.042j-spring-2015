@@ -6,7 +6,7 @@ title: 3.1 Sums & Products
 uid: fb343122-3d72-86e7-32ad-39c23cdeea60
 ---
 
-*   [<Applying Stirling's Formula]({{< baseurl >}}/pages/counting/tp8-2/vertical-109177f07958)
+*   [\<Applying Stirling's Formula]({{< baseurl >}}/pages/counting/tp8-2/vertical-109177f07958)
 *   [3.1.1Arithmetic Sums: Video]({{< baseurl >}}/pages/counting/tp8-2)
 *   [3.1.2Perturbation by Young Gauss]({{< baseurl >}}/pages/counting/tp8-2/vertical-56598c481e1a)
 *   [3.1.3Geometric Sums: Video]({{< baseurl >}}/pages/counting/tp8-2/vertical-46a80f3884d6)

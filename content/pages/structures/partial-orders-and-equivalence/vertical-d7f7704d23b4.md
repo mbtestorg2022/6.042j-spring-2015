@@ -6,7 +6,7 @@ title: 2.7 Partial Orders and Equivalence
 uid: d0057eb5-ec5d-c1ab-ed43-d7a30d142d1a
 ---
 
-*   [<Relational Properties]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence/vertical-6ea0ba8a2d05)
+*   [\<Relational Properties]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence/vertical-6ea0ba8a2d05)
 *   [2.7.1Partial Orders: Video]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence)
 *   [2.7.2Population Partial Order]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence/vertical-f4ebf555fc18)
 *   [2.7.3Representing Partial Orders As Subset Relations: Video]({{< baseurl >}}/pages/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5)

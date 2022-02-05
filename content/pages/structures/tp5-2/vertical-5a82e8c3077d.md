@@ -6,7 +6,7 @@ title: 2.2  Congruences
 uid: 6b3dcf5d-f1b9-6c6d-56f1-73303bd60a95
 ---
 
-*   [<Divisibility and Congruence]({{< baseurl >}}/pages/structures/tp5-2/vertical-d0520d30ae3f)
+*   [\<Divisibility and Congruence]({{< baseurl >}}/pages/structures/tp5-2/vertical-d0520d30ae3f)
 *   [2.2.1Congruence mod n: Video]({{< baseurl >}}/pages/structures/tp5-2)
 *   [2.2.2Divisibility and Congruence]({{< baseurl >}}/pages/structures/tp5-2/vertical-d0520d30ae3f)
 *   [2.2.3Inverses mod n: Video]({{< baseurl >}}/pages/structures/tp5-2/vertical-5a82e8c3077d)

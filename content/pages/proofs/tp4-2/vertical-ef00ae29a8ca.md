@@ -6,7 +6,7 @@ title: 1.9  State Machines - Invariants
 uid: 783b1ae0-b2ad-6045-34d3-f48ce92854c0
 ---
 
-*   [<State Machine Invariants]({{< baseurl >}}/pages/proofs/tp4-2/vertical-ee3144f200f1)
+*   [\<State Machine Invariants]({{< baseurl >}}/pages/proofs/tp4-2/vertical-ee3144f200f1)
 *   [1.9.1State Machines Invariants: Video]({{< baseurl >}}/pages/proofs/tp4-2)
 *   [1.9.2State Machine Invariants]({{< baseurl >}}/pages/proofs/tp4-2/vertical-ee3144f200f1)
 *   [1.9.3Derived Variables: Video]({{< baseurl >}}/pages/proofs/tp4-2/vertical-ef00ae29a8ca)

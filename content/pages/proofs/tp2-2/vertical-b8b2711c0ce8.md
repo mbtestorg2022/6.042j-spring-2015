@@ -6,7 +6,7 @@ title: 1.4 Logic & Propositions
 uid: 1ec8a5f5-a2ac-afcd-fe45-72a10562aa45
 ---
 
-*   [<Truth Tables: Video]({{< baseurl >}}/pages/proofs/tp2-2/truth-tables-video)
+*   [\<Truth Tables: Video]({{< baseurl >}}/pages/proofs/tp2-2/truth-tables-video)
 *   [1.4.1Propositional Operators: Video]({{< baseurl >}}/pages/proofs/tp2-2)
 *   [1.4.2Propositional Operators]({{< baseurl >}}/pages/proofs/tp2-2/vertical-e6ef70d76365)
 *   [1.4.3Digital Logic: Video]({{< baseurl >}}/pages/proofs/tp2-2/digital-logic-video)

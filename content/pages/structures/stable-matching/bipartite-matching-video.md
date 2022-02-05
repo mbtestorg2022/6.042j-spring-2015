@@ -6,7 +6,7 @@ title: 2.11 Stable Matching
 uid: 68230ebe-4f1e-9418-43d9-91caad882931
 ---
 
-*   [<Boy Optimal]({{< baseurl >}}/pages/structures/stable-matching/boy-optimal)
+*   [\<Boy Optimal]({{< baseurl >}}/pages/structures/stable-matching/boy-optimal)
 *   [2.11.1Stable Matching: Video]({{< baseurl >}}/pages/structures/stable-matching)
 *   [2.11.2Matching Ritual: Video]({{< baseurl >}}/pages/structures/stable-matching/matching-ritual-video)
 *   [2.11.3Derived Variables]({{< baseurl >}}/pages/structures/stable-matching/derived-variables-0)

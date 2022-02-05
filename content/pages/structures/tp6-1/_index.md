@@ -6,7 +6,7 @@ title: 2.3  Euler's Theorem
 uid: 8083cb55-8a36-eb8d-ad32-920ceb95cfdb
 ---
 
-*   [<Inverses With Linear Combinations]({{< baseurl >}}/pages/structures/tp5-2/vertical-9282c2de10f6)
+*   [\<Inverses With Linear Combinations]({{< baseurl >}}/pages/structures/tp5-2/vertical-9282c2de10f6)
 *   [2.3.1Modular Exponentiation Euler's Function: Video]({{< baseurl >}}/pages/structures/tp6-1)
 *   [2.3.2Euler's Totient Function]({{< baseurl >}}/pages/structures/tp6-1/vertical-62a25d1dd25f)
 *   [2.3.3The Ring Z: Video]({{< baseurl >}}/pages/structures/tp6-1/vertical-96037fd2d933)

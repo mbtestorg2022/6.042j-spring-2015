@@ -6,7 +6,7 @@ title: 1.6  Sets
 uid: 9acad4fe-0ca1-e09e-47dd-0c5f58460040
 ---
 
-*   [< Sets]({{< baseurl >}}/pages/proofs/tp3-2)
+*   [\< Sets]({{< baseurl >}}/pages/proofs/tp3-2)
 *   [1.6.1Sets Definitions: Video]({{< baseurl >}}/pages/proofs/tp3-2)
 *   [1.6.2Sets Operations: Video]({{< baseurl >}}/pages/proofs/tp3-2/vertical-822cbc94ed34)
 *   [1.6.3Difference]({{< baseurl >}}/pages/proofs/tp3-2/vertical-049c9a1dd957)

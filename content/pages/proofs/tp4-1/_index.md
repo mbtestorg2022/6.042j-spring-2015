@@ -6,7 +6,7 @@ title: 1.8  Induction
 uid: 5179d7c0-c3f7-a60a-33d7-c24d9d219172
 ---
 
-*   [<Mapping Lemma: Sizes of Domains and Codomains]({{< baseurl >}}/pages/proofs/tp3-3/vertical-7d9a2d67e3b9)
+*   [\<Mapping Lemma: Sizes of Domains and Codomains]({{< baseurl >}}/pages/proofs/tp3-3/vertical-7d9a2d67e3b9)
 *   [1.8.1Induction: Video]({{< baseurl >}}/pages/proofs/tp4-1)
 *   [1.8.2Bogus Induction: Video]({{< baseurl >}}/pages/proofs/tp4-1/vertical-9984d57d43e5)
 *   [1.8.3Same Colored Horses]({{< baseurl >}}/pages/proofs/tp4-1/vertical-e9a3ad8170fd)

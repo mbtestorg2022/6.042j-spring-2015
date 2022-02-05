@@ -6,7 +6,7 @@ title: 2.6 Directed Acyclic Graphs (DAGs) & Scheduling
 uid: 73fc19ce-f8be-1c05-1665-3a1d3df499ce
 ---
 
-*   [<Scheduling Prerequisites]({{< baseurl >}}/pages/structures/tp7-1/vertical-cb2dbc0f9d11)
+*   [\<Scheduling Prerequisites]({{< baseurl >}}/pages/structures/tp7-1/vertical-cb2dbc0f9d11)
 *   [2.6.1DAGs: Video]({{< baseurl >}}/pages/structures/tp7-1)
 *   [2.6.2DAGs]({{< baseurl >}}/pages/structures/tp7-1/vertical-dcde59c77eab)
 *   [2.6.3Scheduling: Video]({{< baseurl >}}/pages/structures/tp7-1/vertical-0b187f2dedb6)

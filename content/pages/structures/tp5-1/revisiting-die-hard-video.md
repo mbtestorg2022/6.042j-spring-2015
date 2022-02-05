@@ -6,7 +6,7 @@ title: 2.1  GCDs
 uid: 14b27034-57c6-fbfd-f20f-417b00878d32
 ---
 
-*   [<GCDs I]({{< baseurl >}}/pages/structures/tp5-1/vertical-d1904394a7b7)
+*   [\<GCDs I]({{< baseurl >}}/pages/structures/tp5-1/vertical-d1904394a7b7)
 *   [2.1.1GCDs & Linear Combinations: Video]({{< baseurl >}}/pages/structures/tp5-1)
 *   [2.1.2Euclidean Algorithm: Video]({{< baseurl >}}/pages/structures/tp5-1/euclidean-algorithm-video)
 *   [2.1.3Run Euclid Run]({{< baseurl >}}/pages/structures/tp5-1/vertical-b30047e37cc7)

@@ -6,7 +6,7 @@ title: 4.3 Independence & Causality
 uid: 09658475-beed-94c6-9920-847500c8507b
 ---
 
-*   [<Labeled Balls]({{< baseurl >}}/pages/probability/tp12-2/vertical-324cac33b048)
+*   [\<Labeled Balls]({{< baseurl >}}/pages/probability/tp12-2/vertical-324cac33b048)
 *   [4.3.1Independence: Video]({{< baseurl >}}/pages/probability/tp12-2)
 *   [4.3.2Independent Dice Rolls]({{< baseurl >}}/pages/probability/tp12-2/vertical-8ff8e74ce854)
 *   [4.3.3Mutual Independence: Video]({{< baseurl >}}/pages/probability/tp12-2/vertical-9c80216b7495)

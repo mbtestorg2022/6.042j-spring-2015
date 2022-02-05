@@ -6,7 +6,7 @@ title: 4.1 Intro to Discrete Probability
 uid: ad8e812c-a9c8-df63-0eb5-a6ed30542233
 ---
 
-*   [<Simplified Monty Hall Tree: Video]({{< baseurl >}}/pages/probability/tp11-2/vertical-65858dc50455)
+*   [\<Simplified Monty Hall Tree: Video]({{< baseurl >}}/pages/probability/tp11-2/vertical-65858dc50455)
 *   [4.1.1Tree Model: Video]({{< baseurl >}}/pages/probability/tp11-2)
 *   [4.1.2Socks and Shoes]({{< baseurl >}}/pages/probability/tp11-2/vertical-dcc88d262213)
 *   [4.1.3Simplified Monty Hall Tree: Video]({{< baseurl >}}/pages/probability/tp11-2/vertical-65858dc50455)

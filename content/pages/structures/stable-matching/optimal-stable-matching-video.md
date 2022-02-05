@@ -6,7 +6,7 @@ title: 2.11 Stable Matching
 uid: 88e03c4e-4209-b708-b104-844551a8a091
 ---
 
-*   [<Mating Ritual]({{< baseurl >}}/pages/structures/stable-matching/mating-ritual-0)
+*   [\<Mating Ritual]({{< baseurl >}}/pages/structures/stable-matching/mating-ritual-0)
 *   [2.11.1Stable Matching: Video]({{< baseurl >}}/pages/structures/stable-matching)
 *   [2.11.2Matching Ritual: Video]({{< baseurl >}}/pages/structures/stable-matching/matching-ritual-video)
 *   [2.11.3Derived Variables]({{< baseurl >}}/pages/structures/stable-matching/derived-variables-0)

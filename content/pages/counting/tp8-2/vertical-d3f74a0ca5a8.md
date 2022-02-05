@@ -6,7 +6,7 @@ title: 3.1 Sums & Products
 uid: 8de8c902-9963-49cb-0873-a6ff1a10a492
 ---
 
-*   [<Annuities]({{< baseurl >}}/pages/counting/tp8-2/vertical-7019fdda010c)
+*   [\<Annuities]({{< baseurl >}}/pages/counting/tp8-2/vertical-7019fdda010c)
 *   [3.1.1Arithmetic Sums: Video]({{< baseurl >}}/pages/counting/tp8-2)
 *   [3.1.2Perturbation by Young Gauss]({{< baseurl >}}/pages/counting/tp8-2/vertical-56598c481e1a)
 *   [3.1.3Geometric Sums: Video]({{< baseurl >}}/pages/counting/tp8-2/vertical-46a80f3884d6)

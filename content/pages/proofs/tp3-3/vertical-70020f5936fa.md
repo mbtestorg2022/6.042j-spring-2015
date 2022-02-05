@@ -6,7 +6,7 @@ title: 1.7 Binary Relations
 uid: e4d95ca6-3894-048a-35fb-e9d203c12fb3
 ---
 
-*   [<Binary Relations]({{< baseurl >}}/pages/proofs/tp3-3)
+*   [\<Binary Relations]({{< baseurl >}}/pages/proofs/tp3-3)
 *   [1.7.1Relations: Video]({{< baseurl >}}/pages/proofs/tp3-3)
 *   [1.7.2Range of a Relation]({{< baseurl >}}/pages/proofs/tp3-3/vertical-70020f5936fa)
 *   [1.7.3Relational Mappings: Video]({{< baseurl >}}/pages/proofs/tp3-3/vertical-360a6e85d0f4)

@@ -6,7 +6,7 @@ title: 1.11  Infinite Sets
 uid: 2b923648-e33a-cab1-5b80-2e2ba689daec
 ---
 
-*   [<Countable and Uncountable Sets]({{< baseurl >}}/pages/proofs/tp4-3/vertical-3077e4479731)
+*   [\<Countable and Uncountable Sets]({{< baseurl >}}/pages/proofs/tp4-3/vertical-3077e4479731)
 *   [1.11.1Cardinality: Video]({{< baseurl >}}/pages/proofs/tp4-3)
 *   [1.11.2Cantor, Schroeder-Bernstein]({{< baseurl >}}/pages/proofs/tp4-3/vertical-e7c2a3883170)
 *   [1.11.3Countable Sets: Video]({{< baseurl >}}/pages/proofs/tp4-3/countable-sets-video)

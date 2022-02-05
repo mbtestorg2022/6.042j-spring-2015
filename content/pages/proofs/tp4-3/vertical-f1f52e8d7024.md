@@ -6,7 +6,7 @@ title: 1.11  Infinite Sets
 uid: 6cc03e5e-ec81-76fb-b79f-4590cb8aeb8d
 ---
 
-*   [<Halting Problem Basics \[Optional\]]({{< baseurl >}}/pages/proofs/tp4-3/vertical-1ef05b471b3d)
+*   [\<Halting Problem Basics \[Optional\]]({{< baseurl >}}/pages/proofs/tp4-3/vertical-1ef05b471b3d)
 *   [1.11.1Cardinality: Video]({{< baseurl >}}/pages/proofs/tp4-3)
 *   [1.11.2Cantor, Schroeder-Bernstein]({{< baseurl >}}/pages/proofs/tp4-3/vertical-e7c2a3883170)
 *   [1.11.3Countable Sets: Video]({{< baseurl >}}/pages/proofs/tp4-3/countable-sets-video)

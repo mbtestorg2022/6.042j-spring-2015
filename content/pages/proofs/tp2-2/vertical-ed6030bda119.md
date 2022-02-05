@@ -6,7 +6,7 @@ title: 1.4 Logic & Propositions
 uid: 0eda0eae-a3c4-9eee-e269-6ea3438d6cbc
 ---
 
-*   [<Propositional Logic: Video]({{< baseurl >}}/pages/proofs/tp2-2/propositional-logic-video)
+*   [\<Propositional Logic: Video]({{< baseurl >}}/pages/proofs/tp2-2/propositional-logic-video)
 *   [1.4.1Propositional Operators: Video]({{< baseurl >}}/pages/proofs/tp2-2)
 *   [1.4.2Propositional Operators]({{< baseurl >}}/pages/proofs/tp2-2/vertical-e6ef70d76365)
 *   [1.4.3Digital Logic: Video]({{< baseurl >}}/pages/proofs/tp2-2/digital-logic-video)

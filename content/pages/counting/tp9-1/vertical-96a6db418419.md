@@ -6,7 +6,7 @@ title: 3.3 Counting with Bijections
 uid: 8f52cd43-5db0-0068-59c5-1fb2593e8e7b
 ---
 
-*   [<Counting Practice]({{< baseurl >}}/pages/counting/tp9-1/vertical-049622956720)
+*   [\<Counting Practice]({{< baseurl >}}/pages/counting/tp9-1/vertical-049622956720)
 *   [3.3.1Sum And Product Rules: Video]({{< baseurl >}}/pages/counting/tp9-1)
 *   [3.3.2Counting Practice]({{< baseurl >}}/pages/counting/tp9-1/vertical-049622956720)
 *   [3.3.3Counting with Bijections: Video]({{< baseurl >}}/pages/counting/tp9-1/vertical-96a6db418419)

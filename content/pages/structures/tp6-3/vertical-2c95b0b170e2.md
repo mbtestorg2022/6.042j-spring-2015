@@ -6,7 +6,7 @@ title: '2.5  Digraphs: Walks & Paths'
 uid: 2827e6c9-e688-3174-fa8f-3cbf0a54d29b
 ---
 
-*   [<Walks and Paths]({{< baseurl >}}/pages/structures/tp6-3/vertical-5a67aa9a3a6d)
+*   [\<Walks and Paths]({{< baseurl >}}/pages/structures/tp6-3/vertical-5a67aa9a3a6d)
 *   [2.5.1Digraphs: Walks & Paths: Video]({{< baseurl >}}/pages/structures/tp6-3)
 *   [2.5.2Walks and Paths]({{< baseurl >}}/pages/structures/tp6-3/vertical-5a67aa9a3a6d)
 *   [2.5.3Digraphs: Connected Vertices: Video]({{< baseurl >}}/pages/structures/tp6-3/vertical-2c95b0b170e2)

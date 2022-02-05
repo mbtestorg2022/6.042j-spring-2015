@@ -6,7 +6,7 @@ title: 3.2 Asymptotics
 uid: 2b8275cb-f5d7-304c-3775-80b64cb09fc8
 ---
 
-*   [<Practice with Big O]({{< baseurl >}}/pages/counting/tp8-3/vertical-4c14279fa60f)
+*   [\<Practice with Big O]({{< baseurl >}}/pages/counting/tp8-3/vertical-4c14279fa60f)
 *   [3.2.1Asymptotic Notation: Video]({{< baseurl >}}/pages/counting/tp8-3)
 *   [3.2.2Asymptotics as Relations]({{< baseurl >}}/pages/counting/tp8-3/vertical-3800c4b1c397)
 *   [3.2.3Asymptotic Properties: Video]({{< baseurl >}}/pages/counting/tp8-3/vertical-e35ce9684389)

@@ -6,7 +6,7 @@ title: 4.7 Sampling & Confidence
 uid: f3872429-d028-ae05-0e3e-6ae070b6aac5
 ---
 
-*   [<Random Sampling]({{< baseurl >}}/pages/probability/tp14-1/vertical-0a9b074af4b4)
+*   [\<Random Sampling]({{< baseurl >}}/pages/probability/tp14-1/vertical-0a9b074af4b4)
 *   [4.7.1Law Of Large Numbers: Video]({{< baseurl >}}/pages/probability/tp14-1)
 *   [4.7.2Not So Strong]({{< baseurl >}}/pages/probability/tp14-1/vertical-84aa6f70d1c0)
 *   [4.7.3Independent Sampling Theorem: Video]({{< baseurl >}}/pages/probability/tp14-1/vertical-872c5ec0974e)

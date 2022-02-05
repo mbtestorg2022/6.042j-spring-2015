@@ -6,7 +6,7 @@ title: 2.9 Coloring & Connectivity
 uid: 109f4d41-cb88-fdaa-de16-336e6c117167
 ---
 
-*   [<Non-Isomorphic Graphs]({{< baseurl >}}/pages/structures/tp7-2/vertical-3c93d1aadcac)
+*   [\<Non-Isomorphic Graphs]({{< baseurl >}}/pages/structures/tp7-2/vertical-3c93d1aadcac)
 *   [2.9.1Coloring: Video]({{< baseurl >}}/pages/structures/tp7-3)
 *   [2.9.2Chromatic Number]({{< baseurl >}}/pages/structures/tp7-3/vertical-312af3a98ad1)
 *   [2.9.3Connectivity: Video]({{< baseurl >}}/pages/structures/tp7-3/vertical-857c6f8a582c)
