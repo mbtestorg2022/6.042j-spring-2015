@@ -4,7 +4,7 @@ title: Readings
 uid: 1bd2d357-6523-fe6c-8a8f-82aaec579197
 ---
 
-The full course textbook, Mathematics for Computer Science, is ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[available for download (PDF 5.8MB)]({{< baseurl >}}/resources/mit6_042js15_textbook).
+The full course textbook, Mathematics for Computer Science, is [available for download (PDF 5.8MB)]({{< baseurl >}}/resources/mit6_042js15_textbook).
 
 {{< tableopen >}}
 {{< theadopen >}}

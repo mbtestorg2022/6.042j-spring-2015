@@ -18,19 +18,19 @@ Exams
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Midterm 1 (PDF)]({{< baseurl >}}/resources/mit6_042js15_midterm1)
+[Midterm 1 (PDF)]({{< baseurl >}}/resources/mit6_042js15_midterm1)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Midterm 2 (PDF)]({{< baseurl >}}/resources/mit6_042js15_midterm2)
+[Midterm 2 (PDF)]({{< baseurl >}}/resources/mit6_042js15_midterm2)
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Midterm 3 (PDF)]({{< baseurl >}}/resources/mit6_042js15_midterm3)
+[Midterm 3 (PDF)]({{< baseurl >}}/resources/mit6_042js15_midterm3)
 {{< tdclose >}}
 
 {{< trclose >}}
