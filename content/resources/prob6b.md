@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b4fd4f9e-1a3b-0fb0-135c-7ef9c5b94025
 resourcetype: Image
 title: prob6b.GIF
 uid: 2da44782-03d8-9e02-e019-28c8bc15eb6b

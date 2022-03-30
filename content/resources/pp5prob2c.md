@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: c9523658-4578-2eac-5fd7-65fa5889d8c4
 resourcetype: Image
 title: pp5prob2c.gif
 uid: a0da4bb0-496b-b05c-c436-b34b2fa8f33b

@@ -4,6 +4,7 @@ description: 'This resource contains information regarding mathematics for compu
   science, random walks & pagerank: Random walks.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-042j-mathematics-for-computer-science-spring-2015/32817d9a5314df3982f04e534cbc1e7d_MIT6_042JS15_RandomWalks.pdf
 file_type: application/pdf
+parent_uid: 118f09a2-89bc-f0f7-005f-6299a530d329
 resourcetype: Document
 title: 'Random Walks & Pagerank: Random Walks'
 uid: 32817d9a-5314-df39-82f0-4e534cbc1e7d

@@ -20,7 +20,7 @@ Non-Isomorphic Graphs
 ---------------------
 
   
-![](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-3c93d1aadcac/prob3b1.gif){{< quiz_multiple_choice questionId="Q1_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="true" >}}&nbsp;\\(H\\) has a vertex of degree 4, but \\(G\\) does not.&nbsp;{{< /quiz_choice >}}
+{{< resource "de80b2aa-7d29-faec-9304-57b82e7f3169" >}}{{< quiz_multiple_choice questionId="Q1_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="true" >}}&nbsp;\\(H\\) has a vertex of degree 4, but \\(G\\) does not.&nbsp;{{< /quiz_choice >}}
 {{< quiz_choice isCorrect="false" >}}&nbsp;\\(u\_1\\) has degree 3, but \\(v\_1\\) has degree 2.&nbsp;{{< /quiz_choice >}}
 {{< quiz_choice isCorrect="true" >}}&nbsp;\\(G\\) has four vertices of degree 3, but \\(H\\) has only two vertices of degree 3.&nbsp;{{< /quiz_choice >}}
 {{< quiz_choice isCorrect="false" >}}&nbsp;\\(G\\) has a vertex named \\(u\_1\\), but \\(H\\) does not.&nbsp;{{< /quiz_choice >}}

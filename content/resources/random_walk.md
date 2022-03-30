@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 00e81ecb-3330-a5f0-b44c-7680ed904aa8
 resourcetype: Image
 title: random_walk.jpg
 uid: eef3a70e-add7-0bd3-b01c-c631cbdc609f

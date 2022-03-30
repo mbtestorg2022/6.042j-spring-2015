@@ -23,10 +23,10 @@ Tree or Not Tree?
 -----------------
 
   
-{{< quiz_multiple_choice questionId="Q1_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp; ![](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-7bacea60d91e/pp5prob2a.gif) &nbsp;{{< /quiz_choice >}}
-{{< quiz_choice isCorrect="true" >}}&nbsp; ![](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-7bacea60d91e/pp5prob2b.gif) &nbsp;{{< /quiz_choice >}}
-{{< quiz_choice isCorrect="false" >}}&nbsp; ![](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-7bacea60d91e/pp5prob2c.gif) &nbsp;{{< /quiz_choice >}}
-{{< quiz_choice isCorrect="true" >}}&nbsp; ![](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-7bacea60d91e/pp5prob2d.gif) &nbsp;{{< /quiz_choice >}}{{< /quiz_choices >}}
+{{< quiz_multiple_choice questionId="Q1_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp; {{< resource "fd225c5d-157b-99e7-ff50-fd687745b817" >}} &nbsp;{{< /quiz_choice >}}
+{{< quiz_choice isCorrect="true" >}}&nbsp; {{< resource "d6c4b19d-8512-ad73-7463-1667da702533" >}} &nbsp;{{< /quiz_choice >}}
+{{< quiz_choice isCorrect="false" >}}&nbsp; {{< resource "a0da4bb0-496b-b05c-c436-b34b2fa8f33b" >}} &nbsp;{{< /quiz_choice >}}
+{{< quiz_choice isCorrect="true" >}}&nbsp; {{< resource "d0228d39-e40c-df45-017b-b210f0f68f5e" >}} &nbsp;{{< /quiz_choice >}}{{< /quiz_choices >}}
 {{< quiz_solution >}}Graphs 2 and 4 are trees, since they are both connected and acyclic. In contrast, graphs 1 and 3 are not trees: graph 1 is disconnected, while graph 3 contains a cycle.{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
 
 *   [BackSpan all the Graphs!]({{< baseurl >}}/pages/structures/tp8-1/vertical-63394d192790)
